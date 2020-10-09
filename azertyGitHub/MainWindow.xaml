@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     
     <Grid>
-        <Button Content="Azerty"/>
+        <Button Content="Demo SIO2"/>
     </Grid>
 </Window>
